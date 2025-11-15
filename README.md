@@ -67,18 +67,23 @@ This repository contains agent configurations organized by subagents wise each y
 
 - Python 3.13+
 - **ADK version 1.18.0 or higher** (required for Visual Builder features)
-- Virtual environment with ADK installed
 
 **Note**: The ADK Visual Builder is available starting from ADK v1.18.0. Make sure you have this version or later installed to use the no-code visual interface.
 
 ### Setup
 
-1. Activate the virtual environment:
+1. Create and activate a virtual environment:
 ```bash
+python3 -m venv .venv
 source .venv/bin/activate
 ```
 
-2. Verify ADK is installed:
+2. Install ADK:
+```bash
+pip install google-adk
+```
+
+3. Verify ADK is installed:
 ```bash
 adk --help
 ```
