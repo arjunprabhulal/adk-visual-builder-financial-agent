@@ -196,7 +196,6 @@ A comprehensive multi-agent system for gathering financial information about com
 - **Earnings Call Agent**: Fetches earnings call transcripts and summaries
 - **Key Financials Agent**: Gathers key financial metrics and ratios
 - **Latest News Agent**: Retrieves recent news about companies
-- **Latest News on Ticker Agent**: Ticker-specific news retrieval
 - **10-K Summary Agent**: Extracts and summarizes 10-K filing information
 - **Financial Data Orchestrator**: Coordinates financial data collection
 - **Parallel Data Gatherer**: Efficiently gathers multiple data points in parallel
