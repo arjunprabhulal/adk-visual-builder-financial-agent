@@ -54,7 +54,6 @@ This repository contains agent configurations organized by subagents wise each y
 │   ├── financial_data_orchestrator.yaml
 │   ├── key_financials_agent.yaml
 │   ├── latest_news_agent.yaml
-│   ├── latest_news_on_ticker_agent.yaml
 │   ├── parallel_data_gatherer.yaml
 │   ├── ten_k_summary_agent.yaml
 
